@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working as Software Engineer Intern at on [YapIkredi Teknoloji](https://www.ykteknoloji.com.tr/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/kaanadalilar](https://github.com/kaanadalilar)
-
 - 💬 Ask me about **Web Development & C++**
 
 - 📫 Reach me via **kaancadalilar@gmail.com**
