@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan Adalılar</h1>
 <h3 align="center">Senior Computer Science & Engineering Student at Sabancı University</h3>
 
-- 🔭 I’m currently working as Software Engineer Intern at on [YapıKredi Teknoloji](https://www.ykteknoloji.com.tr/)
+- 🔭 I’m currently working as Software Engineer Intern at [YapıKredi Teknoloji](https://www.ykteknoloji.com.tr/)
 
 - 💬 Ask me about **Web Development & C++**
 
