@@ -7,7 +7,7 @@
 
 - 📫 Reach me via **kaancadalilar@gmail.com**
 
-- 📄 Visit my website and know about me [https://kaanadalilar.com/](https://kaanadalilar.com/)
+- 📄 Visit my website and know about me [https://kaanadalilar.org/](https://kaanadalilar.org/)
 
 <h3 align="left">Connect with me:</h3>
 
